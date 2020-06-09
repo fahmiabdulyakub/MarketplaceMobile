@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="49533315-7b7c-4b0b-9248-33b1969fa32e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/file-input-save-data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/file-input-save-data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@unimodules/react-native-adapter/android/unimodules-react-native-adapter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/@unimodules/react-native-adapter/android/unimodules-react-native-adapter.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/expo-app-loader-provider/android/expo-app-loader-provider.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/expo-app-loader-provider/android/expo-app-loader-provider.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/expo-constants/android/expo-constants.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/expo-constants/android/expo-constants.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/expo-file-system/android/expo-file-system.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/expo-file-system/android/expo-file-system.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/expo-font/android/expo-font.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/expo-font/android/expo-font.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/expo-keep-awake/android/expo-keep-awake.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/expo-keep-awake/android/expo-keep-awake.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/expo-linear-gradient/android/expo-linear-gradient.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/expo-linear-gradient/android/expo-linear-gradient.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/expo-location/android/expo-location.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/expo-location/android/expo-location.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/expo-permissions/android/expo-permissions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/expo-permissions/android/expo-permissions.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/expo-sqlite/android/expo-sqlite.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/expo-sqlite/android/expo-sqlite.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/expo-web-browser/android/expo-web-browser.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/expo-web-browser/android/expo-web-browser.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/unimodules-barcode-scanner-interface/android/unimodules-barcode-scanner-interface.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/unimodules-barcode-scanner-interface/android/unimodules-barcode-scanner-interface.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/unimodules-camera-interface/android/unimodules-camera-interface.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/unimodules-camera-interface/android/unimodules-camera-interface.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/unimodules-constants-interface/android/unimodules-constants-interface.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/unimodules-constants-interface/android/unimodules-constants-interface.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/unimodules-face-detector-interface/android/unimodules-face-detector-interface.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/unimodules-face-detector-interface/android/unimodules-face-detector-interface.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/unimodules-file-system-interface/android/unimodules-file-system-interface.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/unimodules-file-system-interface/android/unimodules-file-system-interface.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/unimodules-font-interface/android/unimodules-font-interface.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/unimodules-font-interface/android/unimodules-font-interface.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/unimodules-permissions-interface/android/unimodules-permissions-interface.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/unimodules-permissions-interface/android/unimodules-permissions-interface.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/unimodules-task-manager-interface/android/unimodules-task-manager-interface.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/unimodules-task-manager-interface/android/unimodules-task-manager-interface.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../screens/CartScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/../screens/CartScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_annotation_annotation_1_0_0_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_annotation_annotation_1_0_0_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_annotation_annotation_1_1_0_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_annotation_annotation_1_1_0_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_arch_core_core_common_2_0_0_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_arch_core_core_common_2_0_0_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_asynclayoutinflater_asynclayoutinflater_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_asynclayoutinflater_asynclayoutinflater_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_browser_browser_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_browser_browser_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_collection_collection_1_0_0_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_collection_collection_1_0_0_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_coordinatorlayout_coordinatorlayout_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_coordinatorlayout_coordinatorlayout_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_core_core_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_core_core_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_core_core_1_0_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_core_core_1_0_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_customview_customview_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_customview_customview_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_documentfile_documentfile_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_documentfile_documentfile_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_fragment_fragment_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_fragment_fragment_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_ui_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_ui_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_utils_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_utils_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_legacy_legacy_support_v4_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_legacy_legacy_support_v4_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_0_0_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_0_0_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_localbroadcastmanager_localbroadcastmanager_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_localbroadcastmanager_localbroadcastmanager_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_media_media_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_media_media_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_print_print_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_print_print_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_slidingpanelayout_slidingpanelayout_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_slidingpanelayout_slidingpanelayout_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_swiperefreshlayout_swiperefreshlayout_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_swiperefreshlayout_swiperefreshlayout_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_transition_transition_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_transition_transition_1_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__com_facebook_device_yearclass_yearclass_2_1_0_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__com_facebook_device_yearclass_yearclass_2_1_0_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__com_facebook_fresco_drawee_1_10_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__com_facebook_fresco_drawee_1_10_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__com_facebook_fresco_fbcore_1_10_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__com_facebook_fresco_fbcore_1_10_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__com_facebook_fresco_fresco_1_10_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__com_facebook_fresco_fresco_1_10_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__com_facebook_fresco_imagepipeline_1_10_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__com_facebook_fresco_imagepipeline_1_10_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__com_facebook_fresco_imagepipeline_base_1_10_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__com_facebook_fresco_imagepipeline_base_1_10_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__com_facebook_fresco_imagepipeline_okhttp3_1_10_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__com_facebook_fresco_imagepipeline_okhttp3_1_10_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__com_facebook_infer_annotation_infer_annotation_0_11_2_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__com_facebook_infer_annotation_infer_annotation_0_11_2_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__com_facebook_react_react_native_0_59_10_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__com_facebook_react_react_native_0_59_10_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__com_facebook_soloader_soloader_0_6_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__com_facebook_soloader_soloader_0_6_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__com_github_bumptech_glide_annotations_4_9_0_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__com_github_bumptech_glide_annotations_4_9_0_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__com_github_bumptech_glide_disklrucache_4_9_0_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__com_github_bumptech_glide_disklrucache_4_9_0_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__com_github_bumptech_glide_gifdecoder_4_9_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__com_github_bumptech_glide_gifdecoder_4_9_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__com_github_bumptech_glide_glide_4_9_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__com_github_bumptech_glide_glide_4_9_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__com_google_android_gms_play_services_base_16_0_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__com_google_android_gms_play_services_base_16_0_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__com_google_android_gms_play_services_basement_16_0_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__com_google_android_gms_play_services_basement_16_0_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__com_google_android_gms_play_services_location_16_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__com_google_android_gms_play_services_location_16_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__com_google_android_gms_play_services_places_placereport_16_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__com_google_android_gms_play_services_places_placereport_16_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__com_google_android_gms_play_services_tasks_16_0_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__com_google_android_gms_play_services_tasks_16_0_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_3_0_2_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_3_0_2_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__com_parse_bolts_bolts_tasks_1_4_0_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__com_parse_bolts_bolts_tasks_1_4_0_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__com_squareup_okhttp3_okhttp_3_10_0_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__com_squareup_okhttp3_okhttp_3_10_0_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__com_squareup_okhttp3_okhttp_3_12_1_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__com_squareup_okhttp3_okhttp_3_12_1_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__com_squareup_okhttp3_okhttp_urlconnection_3_10_0_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__com_squareup_okhttp3_okhttp_urlconnection_3_10_0_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__com_squareup_okhttp3_okhttp_urlconnection_3_12_1_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__com_squareup_okhttp3_okhttp_urlconnection_3_12_1_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__com_squareup_okio_okio_1_14_0_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__com_squareup_okio_okio_1_14_0_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__com_squareup_okio_okio_1_15_0_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__com_squareup_okio_okio_1_15_0_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__commons_codec_commons_codec_1_10_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__commons_codec_commons_codec_1_10_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__commons_io_commons_io_1_4_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__commons_io_commons_io_1_4_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__io_nlopez_smartlocation_library_3_2_11_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__io_nlopez_smartlocation_library_3_2_11_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__javax_inject_javax_inject_1_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/libraries/Gradle__javax_inject_javax_inject_1_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/androidx/appcompat/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/androidx/appcompat/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/androidx/arch/core/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/androidx/arch/core/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/androidx/asynclayoutinflater/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/androidx/asynclayoutinflater/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/androidx/browser/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/androidx/browser/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/androidx/coordinatorlayout/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/androidx/coordinatorlayout/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/androidx/core/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/androidx/core/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/androidx/cursoradapter/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/androidx/cursoradapter/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/androidx/customview/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/androidx/customview/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/androidx/documentfile/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/androidx/documentfile/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/androidx/drawerlayout/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/androidx/drawerlayout/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/androidx/fragment/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/androidx/fragment/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/androidx/interpolator/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/androidx/interpolator/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/androidx/legacy/coreui/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/androidx/legacy/coreui/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/androidx/legacy/coreutils/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/androidx/legacy/coreutils/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/androidx/legacy/v4/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/androidx/legacy/v4/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/androidx/lifecycle/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/androidx/lifecycle/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/androidx/lifecycle/livedata/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/androidx/lifecycle/livedata/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/androidx/lifecycle/livedata/core/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/androidx/lifecycle/livedata/core/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/androidx/lifecycle/viewmodel/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/androidx/lifecycle/viewmodel/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/androidx/loader/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/androidx/loader/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/androidx/localbroadcastmanager/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/androidx/localbroadcastmanager/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/androidx/media/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/androidx/media/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/androidx/print/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/androidx/print/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/androidx/slidingpanelayout/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/androidx/slidingpanelayout/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/androidx/swiperefreshlayout/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/androidx/swiperefreshlayout/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/androidx/transition/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/androidx/transition/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/androidx/vectordrawable/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/androidx/vectordrawable/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/androidx/versionedparcelable/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/androidx/versionedparcelable/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/androidx/viewpager/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/androidx/viewpager/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/bumptech/glide/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/bumptech/glide/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/bumptech/glide/gifdecoder/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/bumptech/glide/gifdecoder/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/facebook/drawee/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/facebook/drawee/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/facebook/drawee/backends/pipeline/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/facebook/drawee/backends/pipeline/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/facebook/fbcore/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/facebook/fbcore/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/facebook/imagepipeline/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/facebook/imagepipeline/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/facebook/imagepipeline/backends/okhttp3/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/facebook/imagepipeline/backends/okhttp3/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/facebook/imagepipelinebase/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/facebook/imagepipelinebase/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/facebook/react/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/facebook/react/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/facebook/soloader/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/facebook/soloader/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/google/android/gms/base/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/google/android/gms/base/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/google/android/gms/common/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/google/android/gms/common/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/google/android/gms/location/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/google/android/gms/location/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/google/android/gms/places_placereport/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/google/android/gms/places_placereport/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/google/android/gms/tasks/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/google/android/gms/tasks/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/swmansion/gesturehandler/react/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/swmansion/gesturehandler/react/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/swmansion/reanimated/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/swmansion/reanimated/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/swmansion/rnscreens/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/swmansion/rnscreens/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/expo/loaders/provider/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/expo/loaders/provider/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/expo/modules/constants/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/expo/modules/constants/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/expo/modules/filesystem/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/expo/modules/filesystem/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/expo/modules/font/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/expo/modules/font/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/expo/modules/keepawake/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/expo/modules/keepawake/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/expo/modules/lineargradient/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/expo/modules/lineargradient/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/expo/modules/location/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/expo/modules/location/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/expo/modules/permissions/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/expo/modules/permissions/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/expo/modules/sqlite/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/expo/modules/sqlite/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/expo/modules/webbrowser/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/expo/modules/webbrowser/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/io/nlopez/smartlocation/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/io/nlopez/smartlocation/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/org/unimodules/adapters/react/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/org/unimodules/adapters/react/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/org/unimodules/core/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/org/unimodules/core/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/org/unimodules/interfaces/barcodescanner/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/org/unimodules/interfaces/barcodescanner/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/org/unimodules/interfaces/camera/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/org/unimodules/interfaces/camera/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/org/unimodules/interfaces/constants/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/org/unimodules/interfaces/constants/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/org/unimodules/interfaces/facedetector/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/org/unimodules/interfaces/facedetector/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/org/unimodules/interfaces/filesystem/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/org/unimodules/interfaces/filesystem/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/org/unimodules/interfaces/font/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/org/unimodules/interfaces/font/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/org/unimodules/interfaces/imageloader/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/org/unimodules/interfaces/imageloader/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/org/unimodules/interfaces/permissions/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/org/unimodules/interfaces/permissions/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/org/unimodules/interfaces/sensors/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/org/unimodules/interfaces/sensors/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/org/unimodules/interfaces/taskManager/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/org/unimodules/interfaces/taskManager/R.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/intermediates/bundle_manifest/debug/processDebugManifest/bundle-manifest/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/intermediates/bundle_manifest/debug/processDebugManifest/bundle-manifest/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/intermediates/incremental/packageDebug/tmp/debug/file-input-save-data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/intermediates/incremental/packageDebug/tmp/debug/file-input-save-data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/intermediates/instant_app_manifest/debug/processDebugManifest/instant-app-manifest/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/intermediates/instant_app_manifest/debug/processDebugManifest/instant-app-manifest/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/local.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/android/maturan.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/android/maturan.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/navigation/AuthNavigator.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/navigation/AuthNavigator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/navigation/MainTabNavigator.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/navigation/MainTabNavigator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/screens/AuthScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/screens/AuthScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/screens/CartScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/screens/CartScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/screens/HomeScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/screens/HomeScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanapps/screens/ProductScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../maturanapps/screens/ProductScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanmobile/android/app/src/main/java/com/maturanmobile/SplashActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanmobile/android/app/src/main/res/drawable/background_splash.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanmobile/android/app/src/main/res/layout/launch_screen.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanmobile/android/app/src/main/res/values/color.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanmobile/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanmobile/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../maturanmobile/yarn.lock" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_3_XL_API_28" />
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+            </state>
+          </provider>
+          <provider editor-type-id="android-manifest" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/maturan.iml" />
+        <option value="$PROJECT_DIR$/app/app.iml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_annotation_annotation_1_0_0_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_annotation_annotation_1_1_0_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_0_0_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_common_2_0_0_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_asynclayoutinflater_asynclayoutinflater_1_0_0_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_browser_browser_1_0_0_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_collection_collection_1_0_0_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_coordinatorlayout_coordinatorlayout_1_0_0_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_1_0_0_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_1_0_1_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_customview_customview_1_0_0_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_documentfile_documentfile_1_0_0_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_fragment_fragment_1_0_0_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_ui_1_0_0_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_utils_1_0_0_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_v4_1_0_0_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_0_0_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_0_0_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_0_0_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_0_0_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_localbroadcastmanager_localbroadcastmanager_1_0_0_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_media_media_1_0_0_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_print_print_1_0_0_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_slidingpanelayout_slidingpanelayout_1_0_0_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_swiperefreshlayout_swiperefreshlayout_1_0_0_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_transition_transition_1_1_0_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_0_0_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_0_0_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_0_0_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_facebook_device_yearclass_yearclass_2_1_0_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_facebook_fresco_drawee_1_10_0_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_facebook_fresco_fbcore_1_10_0_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_facebook_fresco_fresco_1_10_0_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_facebook_fresco_imagepipeline_1_10_0_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_facebook_fresco_imagepipeline_base_1_10_0_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_facebook_fresco_imagepipeline_okhttp3_1_10_0_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_facebook_infer_annotation_infer_annotation_0_11_2_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_facebook_react_react_native_0_59_10_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_facebook_soloader_soloader_0_6_0_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_bumptech_glide_annotations_4_9_0_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_bumptech_glide_disklrucache_4_9_0_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_bumptech_glide_gifdecoder_4_9_0_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_bumptech_glide_glide_4_9_0_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_base_16_0_1_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_basement_16_0_1_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_location_16_0_0_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_places_placereport_16_0_0_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_tasks_16_0_1_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_3_0_2_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_parse_bolts_bolts_tasks_1_4_0_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okhttp3_okhttp_3_10_0_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okhttp3_okhttp_3_12_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okhttp3_okhttp_urlconnection_3_10_0_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okhttp3_okhttp_urlconnection_3_12_1_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okio_okio_1_14_0_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okio_okio_1_15_0_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__commons_codec_commons_codec_1_10_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__commons_io_commons_io_1_4_jar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__io_nlopez_smartlocation_library_3_2_11_aar.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Gradle__javax_inject_javax_inject_1_jar.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="677" />
+    <option name="y" value="-6" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="E:/react-native-shop/android" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49533315-7b7c-4b0b-9248-33b1969fa32e" name="Default Changelist" comment="" />
+      <created>1577698683977</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577698683977</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.120272316" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Build Variants" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Designer" order="5" />
+      <window_info id="Resources Explorer" order="6" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Favorites" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="0" />
+      <window_info anchor="bottom" id="Logcat" order="1" />
+      <window_info anchor="bottom" id="TODO" order="2" />
+      <window_info anchor="bottom" id="Android Profiler" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Debug" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="5" weight="0.32405892" />
+      <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Flutter Performance" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Build" order="9" visible="true" weight="0.32733223" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Flutter Inspector" order="4" />
+      <window_info anchor="right" id="Flutter Outline" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

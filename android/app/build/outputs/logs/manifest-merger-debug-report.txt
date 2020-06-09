@@ -1,0 +1,988 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml:1:1-48:12
+INJECTED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml:1:1-48:12
+INJECTED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml:1:1-48:12
+INJECTED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml:1:1-48:12
+MERGED from [:@react-native-community_async-storage] C:\Users\USER\ReactNative\GenioMobile\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-webview] C:\Users\USER\ReactNative\GenioMobile\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-23:12
+MERGED from [:react-native-midtrans-payment] C:\Users\USER\ReactNative\GenioMobile\node_modules\react-native-midtrans-payment\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-screens] C:\Users\USER\ReactNative\GenioMobile\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] C:\Users\USER\ReactNative\GenioMobile\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] C:\Users\USER\ReactNative\GenioMobile\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.59.10] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-react-native-0.59.10.aar\3a0d3e18dc13c125e192ec61436e1ecc\AndroidManifest.xml:2:1-13:12
+MERGED from [:expo-permissions] C:\Users\USER\ReactNative\GenioMobile\node_modules\expo-permissions\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:2:1-180:12
+MERGED from [com.midtrans:corekit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-corekit-1.22.0.aar\b55f249ee2676a7627a470e2316567a7\AndroidManifest.xml:2:1-19:12
+MERGED from [com.midtrans:analytics:1.4.5] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-analytics-1.4.5.aar\9e54bade4c62327cf27e0a41507b5ab7\AndroidManifest.xml:2:1-17:12
+MERGED from [com.github.stfalcon:smsverifycatcher:0.3.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-smsverifycatcher-0.3.1.aar\20b0dcb1913f0310ae5db9eabf9d1201\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\005d81596bc0dee0d6afb85c7cde4034\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0.aar\804aa6854147b734ed10c8cdcc46da6e\AndroidManifest.xml:17:1-22:12
+MERGED from [:unimodules-react-native-adapter] C:\Users\USER\ReactNative\GenioMobile\node_modules\@unimodules\react-native-adapter\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-app-loader-provider] C:\Users\USER\ReactNative\GenioMobile\node_modules\expo-app-loader-provider\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-constants] C:\Users\USER\ReactNative\GenioMobile\node_modules\expo-constants\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-file-system] C:\Users\USER\ReactNative\GenioMobile\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-30:12
+MERGED from [:expo-font] C:\Users\USER\ReactNative\GenioMobile\node_modules\expo-font\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-keep-awake] C:\Users\USER\ReactNative\GenioMobile\node_modules\expo-keep-awake\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-linear-gradient] C:\Users\USER\ReactNative\GenioMobile\node_modules\expo-linear-gradient\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-location] C:\Users\USER\ReactNative\GenioMobile\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-21:12
+MERGED from [:expo-sqlite] C:\Users\USER\ReactNative\GenioMobile\node_modules\expo-sqlite\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-web-browser] C:\Users\USER\ReactNative\GenioMobile\node_modules\expo-web-browser\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-barcode-scanner-interface] C:\Users\USER\ReactNative\GenioMobile\node_modules\unimodules-barcode-scanner-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-camera-interface] C:\Users\USER\ReactNative\GenioMobile\node_modules\unimodules-camera-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-constants-interface] C:\Users\USER\ReactNative\GenioMobile\node_modules\unimodules-constants-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-face-detector-interface] C:\Users\USER\ReactNative\GenioMobile\node_modules\unimodules-face-detector-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-file-system-interface] C:\Users\USER\ReactNative\GenioMobile\node_modules\unimodules-file-system-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-font-interface] C:\Users\USER\ReactNative\GenioMobile\node_modules\unimodules-font-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-permissions-interface] C:\Users\USER\ReactNative\GenioMobile\node_modules\unimodules-permissions-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-task-manager-interface] C:\Users\USER\ReactNative\GenioMobile\node_modules\unimodules-task-manager-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-core] C:\Users\USER\ReactNative\GenioMobile\node_modules\@unimodules\core\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-image-loader-interface] C:\Users\USER\ReactNative\GenioMobile\node_modules\unimodules-image-loader-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-sensors-interface] C:\Users\USER\ReactNative\GenioMobile\node_modules\unimodules-sensors-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.transition:transition:1.1.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\transition-1.1.0.aar\f844b5fb572363c5e965edbbe229b0f2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\browser-1.0.0.aar\cc2ee57913987e735fbbadd201a3dfda\AndroidManifest.xml:17:1-22:12
+MERGED from [com.journeyapps:zxing-android-embedded:3.5.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-zxing-android-embedded-3.5.0.aar\259592410070413d06f38be2cf8c8213\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-play-services-location-16.0.0.aar\a4586d863df958ad230fdbf776aae6fb\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-15.0.1.aar\38364b82ef15515e28556c1a07c090e7\AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-api-phone-15.0.1.aar\51e90fea288da0333c52a26828d56662\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:15.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-base-15.0.1.aar\2d783f753df98c253091cc04a5be8f76\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\f4f5b41c98672ea55b8c5d3c0bd3d6bb\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\ce241f9edff76c633a910cda66feb6c4\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-16.0.1.aar\ee8b7f2a8995c190f1c0f9e2213fc551\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\9f4f144faf72ef3d629c9f86114c60cb\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\0930e89ddbefa3265ca83871db51d467\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-glide-4.9.0.aar\f0d8efec1bda2bab0c5e0769782837ea\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\745fa32e5043274be184515d21f08c59\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\af2ad6a36f6ea3eceb8775f8f07cd52f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\4c8f5885fd2ba7ab0c11d7be9ddb31d9\AndroidManifest.xml:17:1-22:12
+MERGED from [ru.rambler.android:swipe-layout:1.0.14] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-swipe-layout-1.0.14.aar\a79d6e0a5faa47a8603f420a59df792f\AndroidManifest.xml:2:1-16:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\f745a6972d672947b5b8adba000ceddd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\5aeca59d416b05a53b3a795d34663c23\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0.aar\1b9d1818c5e391edd2ea3936fb5db9dd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\6a50200ffa3e413bb488fb5f9b1beab5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\a7ef1e22bc7c4f4b8818416e26ecf2f6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\a1b27985426839eace0c386711beb3df\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\0c1f8971ce8b5b9a6bd98c4b6c7dc864\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\f284b725741bf49334d58370997099cd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\297a4fd46b890e38221cf6a41fdad2ef\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\7602331349b4f0ad13c448975315f6f2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\9676f9c79f91c08ad1984e9d64d2dae7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\c90a2414978e369f5d3902bbd60d9d9d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\3d177988725d6a7146f915262422cf9a\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\024227185550610671164e09ece32765\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\7fede45b52e6676a74ed85d45e7f52c3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\a2b6ea7d5e25a4fd294e515389893875\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\5789010ddf5bce5527c5f5a68d42fbf5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\a53cc92046078178470970c34c9f47e8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\fdad4d11b9fec7e827ec3ed5667ac155\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\730fc424e0522e7e73fb52dc73994803\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\fc0f512677d54cfbfb3eeff5f3db1b9a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\36ed930fc96259a4541b56a5d8df0d61\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\b70301b41813ea1b83ed2a4ac1a62049\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\5c5ae54ad0d999f64812c9402eb3c0a5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\270f09599728889a35a2c6d22258b53b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-gifdecoder-4.9.0.aar\f624b6dced0d1215079f1dc0bcf4a966\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-fresco-1.10.0.aar\726f8e270459d3113daf6a20b73f6f5f\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\8324c02d8b9df6b4986bf65128e16f3f\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-drawee-1.10.0.aar\70c972800bcfb0803cffc059b4e1103c\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-imagepipeline-1.10.0.aar\78b7d894a1d299b0e1f4caa036d41954\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-imagepipeline-base-1.10.0.aar\5e39704ed5ffcf3f9f71e7abd3dcae47\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\9d8c1b78672609c76d463551d104bb7c\AndroidManifest.xml:2:1-13:12
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\812694973ae555566b17008ddc54a9a4\AndroidManifest.xml:2:1-30:12
+MERGED from [com.github.scottyab:secure-preferences:v0.1.6] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\secure-preferences-v0.1.6.aar\485d624f2992196c98bdbe5d9be999b9\AndroidManifest.xml:2:1-14:12
+MERGED from [me.saket:better-link-movement-method:1.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\better-link-movement-method-1.2.aar\3bedcfdf8cf6d26f5b141c01e6ef6872\AndroidManifest.xml:2:1-12:12
+MERGED from [com.koushikdutta.ion:ion:2.2.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-ion-2.2.1.aar\2578a2d750c932738d0230cad9b48d30\AndroidManifest.xml:2:1-16:12
+MERGED from [com.midtrans:issuetracker:1.12.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\issuetracker-1.12.0.aar\711a3b537a35e07237c94a14d9e9cc95\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-fbcore-1.10.0.aar\2cb28144d8fd92a4b5f9f36fee49999f\AndroidManifest.xml:2:1-9:12
+MERGED from [com.scottyab:aes-crypto:0.0.5] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\aes-crypto-0.0.5.aar\cf361acebc36a86cb9b62198e6349a44\AndroidManifest.xml:2:1-12:12
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\androidasync-2.2.1.aar\eae73618f93d0db8e5bd8711b5975b12\AndroidManifest.xml:2:1-16:12
+INJECTED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml:1:1-48:12
+INJECTED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml:1:1-48:12
+INJECTED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml:1:1-48:12
+	package
+		ADDED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml:2:5-26
+		INJECTED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml:1:1-48:12
+		INJECTED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml:1:1-48:12
+		INJECTED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from [com.midtrans:corekit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-corekit-1.22.0.aar\b55f249ee2676a7627a470e2316567a7\AndroidManifest.xml:12:5-67
+MERGED from [com.midtrans:corekit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-corekit-1.22.0.aar\b55f249ee2676a7627a470e2316567a7\AndroidManifest.xml:12:5-67
+MERGED from [:expo-file-system] C:\Users\USER\ReactNative\GenioMobile\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-67
+MERGED from [:expo-file-system] C:\Users\USER\ReactNative\GenioMobile\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-67
+MERGED from [com.koushikdutta.ion:ion:2.2.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-ion-2.2.1.aar\2578a2d750c932738d0230cad9b48d30\AndroidManifest.xml:11:5-67
+MERGED from [com.koushikdutta.ion:ion:2.2.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-ion-2.2.1.aar\2578a2d750c932738d0230cad9b48d30\AndroidManifest.xml:11:5-67
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\androidasync-2.2.1.aar\eae73618f93d0db8e5bd8711b5975b12\AndroidManifest.xml:11:5-67
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\androidasync-2.2.1.aar\eae73618f93d0db8e5bd8711b5975b12\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml:5:22-75
+uses-permission#android.permission.MANAGE_DOCUMENTS
+ADDED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml:8:5-75
+	android:name
+		ADDED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml:8:22-72
+uses-permission#android.permission.READ_INTERNAL_STORAGE
+ADDED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml:9:22-77
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml:10:22-72
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml:11:5-74
+	android:name
+		ADDED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml:11:22-71
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml:12:5-66
+	android:name
+		ADDED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml:12:22-63
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml:13:22-77
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml:16:5-81
+MERGED from [:expo-location] C:\Users\USER\ReactNative\GenioMobile\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-81
+MERGED from [:expo-location] C:\Users\USER\ReactNative\GenioMobile\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-81
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\812694973ae555566b17008ddc54a9a4\AndroidManifest.xml:12:5-81
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\812694973ae555566b17008ddc54a9a4\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml:16:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml:17:5-79
+MERGED from [:expo-location] C:\Users\USER\ReactNative\GenioMobile\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-79
+MERGED from [:expo-location] C:\Users\USER\ReactNative\GenioMobile\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\812694973ae555566b17008ddc54a9a4\AndroidManifest.xml:14:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\812694973ae555566b17008ddc54a9a4\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml:17:22-76
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml:18:5-65
+MERGED from [com.journeyapps:zxing-android-embedded:3.5.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-zxing-android-embedded-3.5.0.aar\259592410070413d06f38be2cf8c8213\AndroidManifest.xml:21:5-65
+MERGED from [com.journeyapps:zxing-android-embedded:3.5.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-zxing-android-embedded-3.5.0.aar\259592410070413d06f38be2cf8c8213\AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml:18:22-62
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml:19:5-72
+	android:name
+		ADDED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml:19:22-69
+uses-permission#android.permission.READ_CALENDAR
+ADDED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml:20:5-72
+	android:name
+		ADDED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml:20:22-69
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml:21:5-73
+	android:name
+		ADDED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml:21:22-70
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml:22:5-80
+MERGED from [:expo-file-system] C:\Users\USER\ReactNative\GenioMobile\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-80
+MERGED from [:expo-file-system] C:\Users\USER\ReactNative\GenioMobile\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml:22:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml:23:5-71
+	android:name
+		ADDED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml:23:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml:24:5-81
+MERGED from [:expo-file-system] C:\Users\USER\ReactNative\GenioMobile\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-81
+MERGED from [:expo-file-system] C:\Users\USER\ReactNative\GenioMobile\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml:24:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml:25:5-73
+	android:name
+		ADDED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml:25:22-70
+application
+ADDED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml:28:5-46:19
+MERGED from [:react-native-webview] C:\Users\USER\ReactNative\GenioMobile\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-webview] C:\Users\USER\ReactNative\GenioMobile\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-21:19
+MERGED from [com.facebook.react:react-native:0.59.10] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-react-native-0.59.10.aar\3a0d3e18dc13c125e192ec61436e1ecc\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.10] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-react-native-0.59.10.aar\3a0d3e18dc13c125e192ec61436e1ecc\AndroidManifest.xml:11:5-20
+MERGED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:13:5-178:19
+MERGED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:13:5-178:19
+MERGED from [com.midtrans:corekit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-corekit-1.22.0.aar\b55f249ee2676a7627a470e2316567a7\AndroidManifest.xml:14:5-17:19
+MERGED from [com.midtrans:corekit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-corekit-1.22.0.aar\b55f249ee2676a7627a470e2316567a7\AndroidManifest.xml:14:5-17:19
+MERGED from [com.midtrans:analytics:1.4.5] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-analytics-1.4.5.aar\9e54bade4c62327cf27e0a41507b5ab7\AndroidManifest.xml:11:5-15:19
+MERGED from [com.midtrans:analytics:1.4.5] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-analytics-1.4.5.aar\9e54bade4c62327cf27e0a41507b5ab7\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.stfalcon:smsverifycatcher:0.3.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-smsverifycatcher-0.3.1.aar\20b0dcb1913f0310ae5db9eabf9d1201\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.stfalcon:smsverifycatcher:0.3.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-smsverifycatcher-0.3.1.aar\20b0dcb1913f0310ae5db9eabf9d1201\AndroidManifest.xml:11:5-15:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\005d81596bc0dee0d6afb85c7cde4034\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\005d81596bc0dee0d6afb85c7cde4034\AndroidManifest.xml:22:5-20
+MERGED from [:expo-file-system] C:\Users\USER\ReactNative\GenioMobile\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:5-28:19
+MERGED from [:expo-file-system] C:\Users\USER\ReactNative\GenioMobile\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:5-28:19
+MERGED from [:expo-location] C:\Users\USER\ReactNative\GenioMobile\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-19:19
+MERGED from [:expo-location] C:\Users\USER\ReactNative\GenioMobile\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-19:19
+MERGED from [com.journeyapps:zxing-android-embedded:3.5.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-zxing-android-embedded-3.5.0.aar\259592410070413d06f38be2cf8c8213\AndroidManifest.xml:45:5-53:19
+MERGED from [com.journeyapps:zxing-android-embedded:3.5.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-zxing-android-embedded-3.5.0.aar\259592410070413d06f38be2cf8c8213\AndroidManifest.xml:45:5-53:19
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-play-services-location-16.0.0.aar\a4586d863df958ad230fdbf776aae6fb\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-play-services-location-16.0.0.aar\a4586d863df958ad230fdbf776aae6fb\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-15.0.1.aar\38364b82ef15515e28556c1a07c090e7\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-15.0.1.aar\38364b82ef15515e28556c1a07c090e7\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\f4f5b41c98672ea55b8c5d3c0bd3d6bb\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\f4f5b41c98672ea55b8c5d3c0bd3d6bb\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\ce241f9edff76c633a910cda66feb6c4\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\ce241f9edff76c633a910cda66feb6c4\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-16.0.1.aar\ee8b7f2a8995c190f1c0f9e2213fc551\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-16.0.1.aar\ee8b7f2a8995c190f1c0f9e2213fc551\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\9f4f144faf72ef3d629c9f86114c60cb\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\9f4f144faf72ef3d629c9f86114c60cb\AndroidManifest.xml:22:5-26:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-glide-4.9.0.aar\f0d8efec1bda2bab0c5e0769782837ea\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-glide-4.9.0.aar\f0d8efec1bda2bab0c5e0769782837ea\AndroidManifest.xml:10:5-20
+MERGED from [ru.rambler.android:swipe-layout:1.0.14] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-swipe-layout-1.0.14.aar\a79d6e0a5faa47a8603f420a59df792f\AndroidManifest.xml:12:5-14:47
+MERGED from [ru.rambler.android:swipe-layout:1.0.14] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-swipe-layout-1.0.14.aar\a79d6e0a5faa47a8603f420a59df792f\AndroidManifest.xml:12:5-14:47
+MERGED from [androidx.core:core:1.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\3d177988725d6a7146f915262422cf9a\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\3d177988725d6a7146f915262422cf9a\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\024227185550610671164e09ece32765\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\024227185550610671164e09ece32765\AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-gifdecoder-4.9.0.aar\f624b6dced0d1215079f1dc0bcf4a966\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-gifdecoder-4.9.0.aar\f624b6dced0d1215079f1dc0bcf4a966\AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\9d8c1b78672609c76d463551d104bb7c\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\9d8c1b78672609c76d463551d104bb7c\AndroidManifest.xml:11:5-20
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\812694973ae555566b17008ddc54a9a4\AndroidManifest.xml:18:5-28:19
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\812694973ae555566b17008ddc54a9a4\AndroidManifest.xml:18:5-28:19
+MERGED from [com.github.scottyab:secure-preferences:v0.1.6] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\secure-preferences-v0.1.6.aar\485d624f2992196c98bdbe5d9be999b9\AndroidManifest.xml:11:5-12:19
+MERGED from [com.github.scottyab:secure-preferences:v0.1.6] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\secure-preferences-v0.1.6.aar\485d624f2992196c98bdbe5d9be999b9\AndroidManifest.xml:11:5-12:19
+MERGED from [com.koushikdutta.ion:ion:2.2.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-ion-2.2.1.aar\2578a2d750c932738d0230cad9b48d30\AndroidManifest.xml:13:5-14:19
+MERGED from [com.koushikdutta.ion:ion:2.2.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-ion-2.2.1.aar\2578a2d750c932738d0230cad9b48d30\AndroidManifest.xml:13:5-14:19
+MERGED from [com.scottyab:aes-crypto:0.0.5] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\aes-crypto-0.0.5.aar\cf361acebc36a86cb9b62198e6349a44\AndroidManifest.xml:10:5-20
+MERGED from [com.scottyab:aes-crypto:0.0.5] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\aes-crypto-0.0.5.aar\cf361acebc36a86cb9b62198e6349a44\AndroidManifest.xml:10:5-20
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\androidasync-2.2.1.aar\eae73618f93d0db8e5bd8711b5975b12\AndroidManifest.xml:13:5-14:19
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\androidasync-2.2.1.aar\eae73618f93d0db8e5bd8711b5975b12\AndroidManifest.xml:13:5-14:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\3d177988725d6a7146f915262422cf9a\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from [com.midtrans:corekit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-corekit-1.22.0.aar\b55f249ee2676a7627a470e2316567a7\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml:30:7-39
+	android:roundIcon
+		ADDED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml:32:7-46
+	android:icon
+		ADDED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml:31:7-41
+	android:allowBackup
+		ADDED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml:33:7-34
+		REJECTED from [com.midtrans:corekit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-corekit-1.22.0.aar\b55f249ee2676a7627a470e2316567a7\AndroidManifest.xml:15:9-36
+		REJECTED from [com.midtrans:analytics:1.4.5] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-analytics-1.4.5.aar\9e54bade4c62327cf27e0a41507b5ab7\AndroidManifest.xml:12:9-35
+		REJECTED from [com.github.stfalcon:smsverifycatcher:0.3.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-smsverifycatcher-0.3.1.aar\20b0dcb1913f0310ae5db9eabf9d1201\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml:34:7-38
+	tools:replace
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:15:9-44
+	android:name
+		ADDED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml:29:7-38
+activity#com.maturan.MainActivity
+ADDED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml:35:7-44:18
+	android:label
+		ADDED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml:37:9-41
+	android:windowSoftInputMode
+		ADDED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml:39:9-51
+	android:configChanges
+		ADDED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml:38:9-79
+	android:name
+		ADDED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml:36:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml:40:9-43:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml:41:13-65
+	android:name
+		ADDED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml:41:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml:42:13-73
+	android:name
+		ADDED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml:42:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml:45:7-84
+	android:name
+		ADDED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml:45:17-81
+uses-sdk
+INJECTED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml
+MERGED from [:@react-native-community_async-storage] C:\Users\USER\ReactNative\GenioMobile\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_async-storage] C:\Users\USER\ReactNative\GenioMobile\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-webview] C:\Users\USER\ReactNative\GenioMobile\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] C:\Users\USER\ReactNative\GenioMobile\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-midtrans-payment] C:\Users\USER\ReactNative\GenioMobile\node_modules\react-native-midtrans-payment\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-midtrans-payment] C:\Users\USER\ReactNative\GenioMobile\node_modules\react-native-midtrans-payment\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] C:\Users\USER\ReactNative\GenioMobile\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] C:\Users\USER\ReactNative\GenioMobile\node_modules\react-native-screens\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] C:\Users\USER\ReactNative\GenioMobile\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] C:\Users\USER\ReactNative\GenioMobile\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] C:\Users\USER\ReactNative\GenioMobile\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] C:\Users\USER\ReactNative\GenioMobile\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.10] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-react-native-0.59.10.aar\3a0d3e18dc13c125e192ec61436e1ecc\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.10] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-react-native-0.59.10.aar\3a0d3e18dc13c125e192ec61436e1ecc\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-permissions] C:\Users\USER\ReactNative\GenioMobile\node_modules\expo-permissions\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-permissions] C:\Users\USER\ReactNative\GenioMobile\node_modules\expo-permissions\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:8:5-11:115
+MERGED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:8:5-11:115
+MERGED from [com.midtrans:corekit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-corekit-1.22.0.aar\b55f249ee2676a7627a470e2316567a7\AndroidManifest.xml:7:5-9:41
+MERGED from [com.midtrans:corekit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-corekit-1.22.0.aar\b55f249ee2676a7627a470e2316567a7\AndroidManifest.xml:7:5-9:41
+MERGED from [com.midtrans:analytics:1.4.5] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-analytics-1.4.5.aar\9e54bade4c62327cf27e0a41507b5ab7\AndroidManifest.xml:7:5-9:41
+MERGED from [com.midtrans:analytics:1.4.5] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-analytics-1.4.5.aar\9e54bade4c62327cf27e0a41507b5ab7\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.stfalcon:smsverifycatcher:0.3.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-smsverifycatcher-0.3.1.aar\20b0dcb1913f0310ae5db9eabf9d1201\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.stfalcon:smsverifycatcher:0.3.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-smsverifycatcher-0.3.1.aar\20b0dcb1913f0310ae5db9eabf9d1201\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\005d81596bc0dee0d6afb85c7cde4034\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\005d81596bc0dee0d6afb85c7cde4034\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0.aar\804aa6854147b734ed10c8cdcc46da6e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0.aar\804aa6854147b734ed10c8cdcc46da6e\AndroidManifest.xml:20:5-44
+MERGED from [:unimodules-react-native-adapter] C:\Users\USER\ReactNative\GenioMobile\node_modules\@unimodules\react-native-adapter\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-react-native-adapter] C:\Users\USER\ReactNative\GenioMobile\node_modules\@unimodules\react-native-adapter\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-app-loader-provider] C:\Users\USER\ReactNative\GenioMobile\node_modules\expo-app-loader-provider\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-app-loader-provider] C:\Users\USER\ReactNative\GenioMobile\node_modules\expo-app-loader-provider\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-constants] C:\Users\USER\ReactNative\GenioMobile\node_modules\expo-constants\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-constants] C:\Users\USER\ReactNative\GenioMobile\node_modules\expo-constants\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-file-system] C:\Users\USER\ReactNative\GenioMobile\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-10:41
+MERGED from [:expo-file-system] C:\Users\USER\ReactNative\GenioMobile\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-10:41
+MERGED from [:expo-font] C:\Users\USER\ReactNative\GenioMobile\node_modules\expo-font\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-font] C:\Users\USER\ReactNative\GenioMobile\node_modules\expo-font\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-keep-awake] C:\Users\USER\ReactNative\GenioMobile\node_modules\expo-keep-awake\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-keep-awake] C:\Users\USER\ReactNative\GenioMobile\node_modules\expo-keep-awake\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-linear-gradient] C:\Users\USER\ReactNative\GenioMobile\node_modules\expo-linear-gradient\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-linear-gradient] C:\Users\USER\ReactNative\GenioMobile\node_modules\expo-linear-gradient\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-location] C:\Users\USER\ReactNative\GenioMobile\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-location] C:\Users\USER\ReactNative\GenioMobile\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-sqlite] C:\Users\USER\ReactNative\GenioMobile\node_modules\expo-sqlite\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-sqlite] C:\Users\USER\ReactNative\GenioMobile\node_modules\expo-sqlite\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-web-browser] C:\Users\USER\ReactNative\GenioMobile\node_modules\expo-web-browser\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-web-browser] C:\Users\USER\ReactNative\GenioMobile\node_modules\expo-web-browser\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-barcode-scanner-interface] C:\Users\USER\ReactNative\GenioMobile\node_modules\unimodules-barcode-scanner-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-barcode-scanner-interface] C:\Users\USER\ReactNative\GenioMobile\node_modules\unimodules-barcode-scanner-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-camera-interface] C:\Users\USER\ReactNative\GenioMobile\node_modules\unimodules-camera-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-camera-interface] C:\Users\USER\ReactNative\GenioMobile\node_modules\unimodules-camera-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-constants-interface] C:\Users\USER\ReactNative\GenioMobile\node_modules\unimodules-constants-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-constants-interface] C:\Users\USER\ReactNative\GenioMobile\node_modules\unimodules-constants-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-face-detector-interface] C:\Users\USER\ReactNative\GenioMobile\node_modules\unimodules-face-detector-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-face-detector-interface] C:\Users\USER\ReactNative\GenioMobile\node_modules\unimodules-face-detector-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-file-system-interface] C:\Users\USER\ReactNative\GenioMobile\node_modules\unimodules-file-system-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-file-system-interface] C:\Users\USER\ReactNative\GenioMobile\node_modules\unimodules-file-system-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-font-interface] C:\Users\USER\ReactNative\GenioMobile\node_modules\unimodules-font-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-font-interface] C:\Users\USER\ReactNative\GenioMobile\node_modules\unimodules-font-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-permissions-interface] C:\Users\USER\ReactNative\GenioMobile\node_modules\unimodules-permissions-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-permissions-interface] C:\Users\USER\ReactNative\GenioMobile\node_modules\unimodules-permissions-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-task-manager-interface] C:\Users\USER\ReactNative\GenioMobile\node_modules\unimodules-task-manager-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-task-manager-interface] C:\Users\USER\ReactNative\GenioMobile\node_modules\unimodules-task-manager-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-core] C:\Users\USER\ReactNative\GenioMobile\node_modules\@unimodules\core\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-core] C:\Users\USER\ReactNative\GenioMobile\node_modules\@unimodules\core\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-image-loader-interface] C:\Users\USER\ReactNative\GenioMobile\node_modules\unimodules-image-loader-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-image-loader-interface] C:\Users\USER\ReactNative\GenioMobile\node_modules\unimodules-image-loader-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-sensors-interface] C:\Users\USER\ReactNative\GenioMobile\node_modules\unimodules-sensors-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-sensors-interface] C:\Users\USER\ReactNative\GenioMobile\node_modules\unimodules-sensors-interface\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.transition:transition:1.1.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\transition-1.1.0.aar\f844b5fb572363c5e965edbbe229b0f2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\transition-1.1.0.aar\f844b5fb572363c5e965edbbe229b0f2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\browser-1.0.0.aar\cc2ee57913987e735fbbadd201a3dfda\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\browser-1.0.0.aar\cc2ee57913987e735fbbadd201a3dfda\AndroidManifest.xml:20:5-44
+MERGED from [com.journeyapps:zxing-android-embedded:3.5.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-zxing-android-embedded-3.5.0.aar\259592410070413d06f38be2cf8c8213\AndroidManifest.xml:19:5-43
+MERGED from [com.journeyapps:zxing-android-embedded:3.5.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-zxing-android-embedded-3.5.0.aar\259592410070413d06f38be2cf8c8213\AndroidManifest.xml:19:5-43
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-play-services-location-16.0.0.aar\a4586d863df958ad230fdbf776aae6fb\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-play-services-location-16.0.0.aar\a4586d863df958ad230fdbf776aae6fb\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-15.0.1.aar\38364b82ef15515e28556c1a07c090e7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-15.0.1.aar\38364b82ef15515e28556c1a07c090e7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-api-phone-15.0.1.aar\51e90fea288da0333c52a26828d56662\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-api-phone-15.0.1.aar\51e90fea288da0333c52a26828d56662\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:15.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-base-15.0.1.aar\2d783f753df98c253091cc04a5be8f76\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:15.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-base-15.0.1.aar\2d783f753df98c253091cc04a5be8f76\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\f4f5b41c98672ea55b8c5d3c0bd3d6bb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\f4f5b41c98672ea55b8c5d3c0bd3d6bb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\ce241f9edff76c633a910cda66feb6c4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\ce241f9edff76c633a910cda66feb6c4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-16.0.1.aar\ee8b7f2a8995c190f1c0f9e2213fc551\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-16.0.1.aar\ee8b7f2a8995c190f1c0f9e2213fc551\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\9f4f144faf72ef3d629c9f86114c60cb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\9f4f144faf72ef3d629c9f86114c60cb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\0930e89ddbefa3265ca83871db51d467\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\0930e89ddbefa3265ca83871db51d467\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-glide-4.9.0.aar\f0d8efec1bda2bab0c5e0769782837ea\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-glide-4.9.0.aar\f0d8efec1bda2bab0c5e0769782837ea\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\745fa32e5043274be184515d21f08c59\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\745fa32e5043274be184515d21f08c59\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\af2ad6a36f6ea3eceb8775f8f07cd52f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\af2ad6a36f6ea3eceb8775f8f07cd52f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\4c8f5885fd2ba7ab0c11d7be9ddb31d9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\4c8f5885fd2ba7ab0c11d7be9ddb31d9\AndroidManifest.xml:20:5-44
+MERGED from [ru.rambler.android:swipe-layout:1.0.14] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-swipe-layout-1.0.14.aar\a79d6e0a5faa47a8603f420a59df792f\AndroidManifest.xml:8:5-10:41
+MERGED from [ru.rambler.android:swipe-layout:1.0.14] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-swipe-layout-1.0.14.aar\a79d6e0a5faa47a8603f420a59df792f\AndroidManifest.xml:8:5-10:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\f745a6972d672947b5b8adba000ceddd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\f745a6972d672947b5b8adba000ceddd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\5aeca59d416b05a53b3a795d34663c23\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\5aeca59d416b05a53b3a795d34663c23\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0.aar\1b9d1818c5e391edd2ea3936fb5db9dd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0.aar\1b9d1818c5e391edd2ea3936fb5db9dd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\6a50200ffa3e413bb488fb5f9b1beab5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\6a50200ffa3e413bb488fb5f9b1beab5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\a7ef1e22bc7c4f4b8818416e26ecf2f6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\a7ef1e22bc7c4f4b8818416e26ecf2f6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\a1b27985426839eace0c386711beb3df\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\a1b27985426839eace0c386711beb3df\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\0c1f8971ce8b5b9a6bd98c4b6c7dc864\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\0c1f8971ce8b5b9a6bd98c4b6c7dc864\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\f284b725741bf49334d58370997099cd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\f284b725741bf49334d58370997099cd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\297a4fd46b890e38221cf6a41fdad2ef\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\297a4fd46b890e38221cf6a41fdad2ef\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\7602331349b4f0ad13c448975315f6f2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\7602331349b4f0ad13c448975315f6f2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\9676f9c79f91c08ad1984e9d64d2dae7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\9676f9c79f91c08ad1984e9d64d2dae7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\c90a2414978e369f5d3902bbd60d9d9d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\c90a2414978e369f5d3902bbd60d9d9d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\3d177988725d6a7146f915262422cf9a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\3d177988725d6a7146f915262422cf9a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\024227185550610671164e09ece32765\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\024227185550610671164e09ece32765\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\7fede45b52e6676a74ed85d45e7f52c3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\7fede45b52e6676a74ed85d45e7f52c3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\a2b6ea7d5e25a4fd294e515389893875\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\a2b6ea7d5e25a4fd294e515389893875\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\5789010ddf5bce5527c5f5a68d42fbf5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\5789010ddf5bce5527c5f5a68d42fbf5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\a53cc92046078178470970c34c9f47e8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\a53cc92046078178470970c34c9f47e8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\fdad4d11b9fec7e827ec3ed5667ac155\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\fdad4d11b9fec7e827ec3ed5667ac155\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\730fc424e0522e7e73fb52dc73994803\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\730fc424e0522e7e73fb52dc73994803\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\fc0f512677d54cfbfb3eeff5f3db1b9a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\fc0f512677d54cfbfb3eeff5f3db1b9a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\36ed930fc96259a4541b56a5d8df0d61\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\36ed930fc96259a4541b56a5d8df0d61\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\b70301b41813ea1b83ed2a4ac1a62049\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\b70301b41813ea1b83ed2a4ac1a62049\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\5c5ae54ad0d999f64812c9402eb3c0a5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\5c5ae54ad0d999f64812c9402eb3c0a5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\270f09599728889a35a2c6d22258b53b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\270f09599728889a35a2c6d22258b53b\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-gifdecoder-4.9.0.aar\f624b6dced0d1215079f1dc0bcf4a966\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-gifdecoder-4.9.0.aar\f624b6dced0d1215079f1dc0bcf4a966\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-fresco-1.10.0.aar\726f8e270459d3113daf6a20b73f6f5f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-fresco-1.10.0.aar\726f8e270459d3113daf6a20b73f6f5f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\8324c02d8b9df6b4986bf65128e16f3f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\8324c02d8b9df6b4986bf65128e16f3f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-drawee-1.10.0.aar\70c972800bcfb0803cffc059b4e1103c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-drawee-1.10.0.aar\70c972800bcfb0803cffc059b4e1103c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-imagepipeline-1.10.0.aar\78b7d894a1d299b0e1f4caa036d41954\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-imagepipeline-1.10.0.aar\78b7d894a1d299b0e1f4caa036d41954\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-imagepipeline-base-1.10.0.aar\5e39704ed5ffcf3f9f71e7abd3dcae47\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-imagepipeline-base-1.10.0.aar\5e39704ed5ffcf3f9f71e7abd3dcae47\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\9d8c1b78672609c76d463551d104bb7c\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\9d8c1b78672609c76d463551d104bb7c\AndroidManifest.xml:7:5-9:41
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\812694973ae555566b17008ddc54a9a4\AndroidManifest.xml:8:5-10:41
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\812694973ae555566b17008ddc54a9a4\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.scottyab:secure-preferences:v0.1.6] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\secure-preferences-v0.1.6.aar\485d624f2992196c98bdbe5d9be999b9\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.scottyab:secure-preferences:v0.1.6] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\secure-preferences-v0.1.6.aar\485d624f2992196c98bdbe5d9be999b9\AndroidManifest.xml:7:5-9:41
+MERGED from [me.saket:better-link-movement-method:1.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\better-link-movement-method-1.2.aar\3bedcfdf8cf6d26f5b141c01e6ef6872\AndroidManifest.xml:8:5-10:41
+MERGED from [me.saket:better-link-movement-method:1.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\better-link-movement-method-1.2.aar\3bedcfdf8cf6d26f5b141c01e6ef6872\AndroidManifest.xml:8:5-10:41
+MERGED from [com.koushikdutta.ion:ion:2.2.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-ion-2.2.1.aar\2578a2d750c932738d0230cad9b48d30\AndroidManifest.xml:7:5-9:41
+MERGED from [com.koushikdutta.ion:ion:2.2.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-ion-2.2.1.aar\2578a2d750c932738d0230cad9b48d30\AndroidManifest.xml:7:5-9:41
+MERGED from [com.midtrans:issuetracker:1.12.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\issuetracker-1.12.0.aar\711a3b537a35e07237c94a14d9e9cc95\AndroidManifest.xml:7:5-9:41
+MERGED from [com.midtrans:issuetracker:1.12.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\issuetracker-1.12.0.aar\711a3b537a35e07237c94a14d9e9cc95\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-fbcore-1.10.0.aar\2cb28144d8fd92a4b5f9f36fee49999f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-fbcore-1.10.0.aar\2cb28144d8fd92a4b5f9f36fee49999f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.scottyab:aes-crypto:0.0.5] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\aes-crypto-0.0.5.aar\cf361acebc36a86cb9b62198e6349a44\AndroidManifest.xml:6:5-8:41
+MERGED from [com.scottyab:aes-crypto:0.0.5] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\aes-crypto-0.0.5.aar\cf361acebc36a86cb9b62198e6349a44\AndroidManifest.xml:6:5-8:41
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\androidasync-2.2.1.aar\eae73618f93d0db8e5bd8711b5975b12\AndroidManifest.xml:7:5-9:41
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\androidasync-2.2.1.aar\eae73618f93d0db8e5bd8711b5975b12\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:11:9-112
+	android:targetSdkVersion
+		INJECTED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\USER\ReactNative\GenioMobile\android\app\src\main\AndroidManifest.xml
+provider#com.reactnativecommunity.webview.RNCWebViewFileProvider
+ADDED from [:react-native-webview] C:\Users\USER\ReactNative\GenioMobile\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-webview] C:\Users\USER\ReactNative\GenioMobile\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-webview] C:\Users\USER\ReactNative\GenioMobile\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-64
+	android:exported
+		ADDED from [:react-native-webview] C:\Users\USER\ReactNative\GenioMobile\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-webview] C:\Users\USER\ReactNative\GenioMobile\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-83
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-webview] C:\Users\USER\ReactNative\GenioMobile\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-19:63
+	android:resource
+		ADDED from [:react-native-webview] C:\Users\USER\ReactNative\GenioMobile\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:17-60
+	android:name
+		ADDED from [:react-native-webview] C:\Users\USER\ReactNative\GenioMobile\node_modules\react-native-webview\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:17-67
+activity#com.midtrans.sdk.uikit.activities.UserDetailsActivity
+ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:16:9-19:67
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:18:13-49
+	android:windowSoftInputMode
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:19:13-64
+	android:name
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:17:13-81
+activity#com.midtrans.sdk.uikit.activities.PaymentMethodsActivity
+ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:20:9-23:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:23:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:22:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:21:13-84
+activity#com.midtrans.sdk.uikit.views.mandiri_clickpay.MandiriClickPayActivity
+ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:24:9-28:67
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:27:13-49
+	android:windowSoftInputMode
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:28:13-64
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:26:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:25:13-97
+activity#com.midtrans.sdk.uikit.views.bri_epay.BriEpayPaymentActivity
+ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:29:9-32:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:32:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:31:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:30:13-88
+activity#com.midtrans.sdk.uikit.views.cimb_click.CimbClickPaymentActivity
+ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:33:9-36:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:36:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:35:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:34:13-92
+activity#com.midtrans.sdk.uikit.views.mandiri_ecash.MandiriEcashPaymentActivity
+ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:37:9-40:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:40:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:39:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:38:13-98
+activity#com.midtrans.sdk.uikit.views.indosat_dompetku.IndosatDompetkuPaymentActivity
+ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:41:9-45:67
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:44:13-49
+	android:windowSoftInputMode
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:45:13-64
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:43:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:42:13-104
+activity#com.midtrans.sdk.uikit.views.indomaret.payment.IndomaretPaymentActivity
+ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:46:9-49:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:49:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:48:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:47:13-99
+activity#com.midtrans.sdk.uikit.views.indomaret.status.IndomaretStatusActivity
+ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:50:9-53:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:53:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:52:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:51:13-97
+activity#com.midtrans.sdk.uikit.views.telkomsel_cash.TelkomselCashPaymentActivity
+ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:54:9-58:67
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:57:13-49
+	android:windowSoftInputMode
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:58:13-64
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:56:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:55:13-100
+activity#com.midtrans.sdk.uikit.views.xl_tunai.payment.XlTunaiPaymentActivity
+ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:59:9-62:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:62:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:61:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:60:13-96
+activity#com.midtrans.sdk.uikit.views.xl_tunai.status.XlTunaiStatusActivity
+ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:63:9-66:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:66:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:65:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:64:13-94
+activity#com.midtrans.sdk.uikit.views.xl_tunai.XlTunaiInstructionActivity
+ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:67:9-70:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:70:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:69:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:68:13-92
+activity#com.midtrans.sdk.uikit.views.kioson.payment.KiosonPaymentActivity
+ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:71:9-74:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:74:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:73:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:72:13-93
+activity#com.midtrans.sdk.uikit.views.kioson.status.KiosonStatusActivity
+ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:75:9-78:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:78:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:77:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:76:13-91
+activity#com.midtrans.sdk.uikit.views.gci.GciPaymentActivity
+ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:79:9-83:67
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:82:13-49
+	android:windowSoftInputMode
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:83:13-64
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:81:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:80:13-79
+activity#com.midtrans.sdk.uikit.views.creditcard.details.CreditCardDetailsActivity
+ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:84:9-88:67
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:87:13-49
+	android:windowSoftInputMode
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:88:13-64
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:86:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:85:13-101
+activity#com.midtrans.sdk.uikit.views.status.PaymentStatusActivity
+ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:89:9-92:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:92:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:91:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:90:13-85
+activity#com.midtrans.sdk.uikit.views.creditcard.saved.SavedCreditCardActivity
+ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:93:9-96:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:96:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:95:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:94:13-97
+activity#com.midtrans.sdk.uikit.views.creditcard.bankpoints.BankPointsActivity
+ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:97:9-101:76
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:100:13-49
+	android:windowSoftInputMode
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:101:13-73
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:99:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:98:13-97
+activity#com.midtrans.sdk.uikit.views.banktransfer.list.BankTransferListActivity
+ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:102:9-105:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:105:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:104:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:103:13-99
+activity#com.midtrans.sdk.uikit.views.banktransfer.payment.BankTransferPaymentActivity
+ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:106:9-110:67
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:109:13-49
+	android:windowSoftInputMode
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:110:13-64
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:108:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:107:13-105
+activity#com.midtrans.sdk.uikit.views.banktransfer.status.VaPaymentStatusActivity
+ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:111:9-114:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:114:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:113:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:112:13-100
+activity#com.midtrans.sdk.uikit.views.banktransfer.status.VaOtherBankPaymentStatusActivity
+ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:115:9-118:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:118:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:117:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:116:13-109
+activity#com.midtrans.sdk.uikit.views.banktransfer.status.MandiriBillStatusActivity
+ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:119:9-122:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:122:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:121:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:120:13-102
+activity#com.midtrans.sdk.uikit.views.creditcard.register.CardRegistrationActivity
+ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:123:9-127:67
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:126:13-49
+	android:windowSoftInputMode
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:127:13-64
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:125:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:124:13-101
+activity#com.midtrans.sdk.uikit.views.gopay.payment.GoPayPaymentActivity
+ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:128:9-131:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:131:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:130:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:129:13-91
+activity#com.midtrans.sdk.uikit.views.gopay.status.GoPayStatusActivity
+ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:132:9-135:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:135:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:134:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:133:13-89
+activity#com.midtrans.sdk.uikit.views.danamon_online.DanamonOnlineActivity
+ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:136:9-139:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:139:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:138:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:137:13-93
+activity#com.midtrans.sdk.uikit.views.bca_klikbca.payment.KlikBcaPaymentActivity
+ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:140:9-144:67
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:143:13-49
+	android:windowSoftInputMode
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:144:13-64
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:142:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:141:13-99
+activity#com.midtrans.sdk.uikit.views.bca_klikbca.status.KlikBcaStatusActivity
+ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:145:9-148:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:148:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:147:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:146:13-97
+activity#com.midtrans.sdk.uikit.views.bca_klikpay.BcaKlikPayPaymentActivity
+ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:149:9-152:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:152:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:151:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:150:13-94
+activity#com.midtrans.sdk.uikit.views.alfamart.payment.AlfamartPaymentActivity
+ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:153:9-156:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:156:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:155:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:154:13-97
+activity#com.midtrans.sdk.uikit.views.alfamart.status.AlfamartStatusActivity
+ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:157:9-160:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:160:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:159:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:158:13-95
+activity#com.midtrans.sdk.uikit.views.webview.WebViewPaymentActivity
+ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:161:9-164:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:164:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:163:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:162:13-87
+activity#com.midtrans.sdk.uikit.views.creditcard.tnc.TermsAndConditionsActivity
+ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:165:9-168:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:168:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:167:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:166:13-98
+activity#com.midtrans.sdk.uikit.views.akulaku.AkulakuActivity
+ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:169:9-172:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:172:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:171:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:170:13-80
+service#com.midtrans.raygun.RaygunPostService
+ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:174:9-177:52
+	android:process
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:177:13-49
+	android:exported
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:176:13-37
+	android:name
+		ADDED from [com.midtrans:uikit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-uikit-1.22.0.aar\f81862e265dc0ed362d126722efd7eb5\AndroidManifest.xml:175:13-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.midtrans:corekit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-corekit-1.22.0.aar\b55f249ee2676a7627a470e2316567a7\AndroidManifest.xml:11:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\812694973ae555566b17008ddc54a9a4\AndroidManifest.xml:13:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\812694973ae555566b17008ddc54a9a4\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from [com.midtrans:corekit:1.22.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-corekit-1.22.0.aar\b55f249ee2676a7627a470e2316567a7\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.STORAGE
+ADDED from [:expo-file-system] C:\Users\USER\ReactNative\GenioMobile\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-66
+	android:name
+		ADDED from [:expo-file-system] C:\Users\USER\ReactNative\GenioMobile\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:22-63
+provider#expo.modules.filesystem.FileSystemFileProvider
+ADDED from [:expo-file-system] C:\Users\USER\ReactNative\GenioMobile\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:9-27:20
+	android:grantUriPermissions
+		ADDED from [:expo-file-system] C:\Users\USER\ReactNative\GenioMobile\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:22:13-47
+	android:authorities
+		ADDED from [:expo-file-system] C:\Users\USER\ReactNative\GenioMobile\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:13-74
+	android:exported
+		ADDED from [:expo-file-system] C:\Users\USER\ReactNative\GenioMobile\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:13-37
+	tools:replace
+		ADDED from [:expo-file-system] C:\Users\USER\ReactNative\GenioMobile\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:23:13-48
+	android:name
+		ADDED from [:expo-file-system] C:\Users\USER\ReactNative\GenioMobile\node_modules\expo-file-system\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:13-74
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [:expo-location] C:\Users\USER\ReactNative\GenioMobile\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-77
+	android:name
+		ADDED from [:expo-location] C:\Users\USER\ReactNative\GenioMobile\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:22-74
+service#expo.modules.location.services.LocationTaskService
+ADDED from [:expo-location] C:\Users\USER\ReactNative\GenioMobile\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:9-18:40
+	android:exported
+		ADDED from [:expo-location] C:\Users\USER\ReactNative\GenioMobile\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from [:expo-location] C:\Users\USER\ReactNative\GenioMobile\node_modules\expo-location\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-78
+uses-feature#android.hardware.camera
+ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-zxing-android-embedded-3.5.0.aar\259592410070413d06f38be2cf8c8213\AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-zxing-android-embedded-3.5.0.aar\259592410070413d06f38be2cf8c8213\AndroidManifest.xml:26:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-zxing-android-embedded-3.5.0.aar\259592410070413d06f38be2cf8c8213\AndroidManifest.xml:25:9-47
+uses-feature#android.hardware.camera.front
+ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-zxing-android-embedded-3.5.0.aar\259592410070413d06f38be2cf8c8213\AndroidManifest.xml:27:5-29:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-zxing-android-embedded-3.5.0.aar\259592410070413d06f38be2cf8c8213\AndroidManifest.xml:29:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-zxing-android-embedded-3.5.0.aar\259592410070413d06f38be2cf8c8213\AndroidManifest.xml:28:9-53
+uses-feature#android.hardware.camera.autofocus
+ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-zxing-android-embedded-3.5.0.aar\259592410070413d06f38be2cf8c8213\AndroidManifest.xml:32:5-34:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-zxing-android-embedded-3.5.0.aar\259592410070413d06f38be2cf8c8213\AndroidManifest.xml:34:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-zxing-android-embedded-3.5.0.aar\259592410070413d06f38be2cf8c8213\AndroidManifest.xml:33:9-57
+uses-feature#android.hardware.camera.flash
+ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-zxing-android-embedded-3.5.0.aar\259592410070413d06f38be2cf8c8213\AndroidManifest.xml:35:5-37:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-zxing-android-embedded-3.5.0.aar\259592410070413d06f38be2cf8c8213\AndroidManifest.xml:37:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-zxing-android-embedded-3.5.0.aar\259592410070413d06f38be2cf8c8213\AndroidManifest.xml:36:9-53
+uses-feature#android.hardware.screen.landscape
+ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-zxing-android-embedded-3.5.0.aar\259592410070413d06f38be2cf8c8213\AndroidManifest.xml:38:5-40:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-zxing-android-embedded-3.5.0.aar\259592410070413d06f38be2cf8c8213\AndroidManifest.xml:40:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-zxing-android-embedded-3.5.0.aar\259592410070413d06f38be2cf8c8213\AndroidManifest.xml:39:9-57
+uses-feature#android.hardware.wifi
+ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-zxing-android-embedded-3.5.0.aar\259592410070413d06f38be2cf8c8213\AndroidManifest.xml:41:5-43:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-zxing-android-embedded-3.5.0.aar\259592410070413d06f38be2cf8c8213\AndroidManifest.xml:43:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-zxing-android-embedded-3.5.0.aar\259592410070413d06f38be2cf8c8213\AndroidManifest.xml:42:9-45
+activity#com.journeyapps.barcodescanner.CaptureActivity
+ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-zxing-android-embedded-3.5.0.aar\259592410070413d06f38be2cf8c8213\AndroidManifest.xml:46:9-52:63
+	android:screenOrientation
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-zxing-android-embedded-3.5.0.aar\259592410070413d06f38be2cf8c8213\AndroidManifest.xml:49:13-56
+	android:clearTaskOnLaunch
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-zxing-android-embedded-3.5.0.aar\259592410070413d06f38be2cf8c8213\AndroidManifest.xml:48:13-45
+	android:stateNotNeeded
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-zxing-android-embedded-3.5.0.aar\259592410070413d06f38be2cf8c8213\AndroidManifest.xml:50:13-42
+	android:windowSoftInputMode
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-zxing-android-embedded-3.5.0.aar\259592410070413d06f38be2cf8c8213\AndroidManifest.xml:52:13-60
+	android:theme
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-zxing-android-embedded-3.5.0.aar\259592410070413d06f38be2cf8c8213\AndroidManifest.xml:51:13-54
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-zxing-android-embedded-3.5.0.aar\259592410070413d06f38be2cf8c8213\AndroidManifest.xml:47:13-74
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-15.0.1.aar\38364b82ef15515e28556c1a07c090e7\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-15.0.1.aar\38364b82ef15515e28556c1a07c090e7\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-15.0.1.aar\38364b82ef15515e28556c1a07c090e7\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-15.0.1.aar\38364b82ef15515e28556c1a07c090e7\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-15.0.1.aar\38364b82ef15515e28556c1a07c090e7\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-15.0.1.aar\38364b82ef15515e28556c1a07c090e7\AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-15.0.1.aar\38364b82ef15515e28556c1a07c090e7\AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-15.0.1.aar\38364b82ef15515e28556c1a07c090e7\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-15.0.1.aar\38364b82ef15515e28556c1a07c090e7\AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\f4f5b41c98672ea55b8c5d3c0bd3d6bb\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\f4f5b41c98672ea55b8c5d3c0bd3d6bb\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\f4f5b41c98672ea55b8c5d3c0bd3d6bb\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\f4f5b41c98672ea55b8c5d3c0bd3d6bb\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\9f4f144faf72ef3d629c9f86114c60cb\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\9f4f144faf72ef3d629c9f86114c60cb\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\9f4f144faf72ef3d629c9f86114c60cb\AndroidManifest.xml:24:13-58
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\812694973ae555566b17008ddc54a9a4\AndroidManifest.xml:15:5-98
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\812694973ae555566b17008ddc54a9a4\AndroidManifest.xml:15:22-95
+uses-permission#com.google.android.gms.permission.ACTIVITY_RECOGNITION
+ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\812694973ae555566b17008ddc54a9a4\AndroidManifest.xml:16:5-94
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\812694973ae555566b17008ddc54a9a4\AndroidManifest.xml:16:22-91
+service#io.nlopez.smartlocation.activity.providers.ActivityGooglePlayServicesProvider$ActivityRecognitionService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\812694973ae555566b17008ddc54a9a4\AndroidManifest.xml:19:9-21:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\812694973ae555566b17008ddc54a9a4\AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\812694973ae555566b17008ddc54a9a4\AndroidManifest.xml:20:13-132
+service#io.nlopez.smartlocation.geofencing.providers.GeofencingGooglePlayServicesProvider$GeofencingService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\812694973ae555566b17008ddc54a9a4\AndroidManifest.xml:22:9-24:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\812694973ae555566b17008ddc54a9a4\AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\812694973ae555566b17008ddc54a9a4\AndroidManifest.xml:23:13-127
+service#io.nlopez.smartlocation.geocoding.providers.AndroidGeocodingProvider$AndroidGeocodingService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\812694973ae555566b17008ddc54a9a4\AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\812694973ae555566b17008ddc54a9a4\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\jetified-library-3.2.11.aar\812694973ae555566b17008ddc54a9a4\AndroidManifest.xml:26:13-120

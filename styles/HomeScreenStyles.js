@@ -1,0 +1,341 @@
+import {StyleSheet} from "react-native";
+
+
+export const styles = StyleSheet.create({
+    headerBackButton: {
+      marginLeft: 24,
+    },
+    container: {
+      flex: 1,
+      backgroundColor: "#fff",
+      paddingHorizontal: 24,
+    },
+  
+    line: {
+      width: "100%",
+      height: 1,
+      backgroundColor: "#000",
+    },
+    headerBannerContainer: {
+      flexDirection: "column",
+      alignItems: "center",
+      justifyContent: "center",
+      marginTop: 48,
+    },
+    headerTextStyle: {
+      fontFamily: "Roboto",
+      fontSize: 30,
+      textAlign: "center",
+      zIndex: 10,
+      lineHeight: 30,
+      textTransform: "uppercase",
+      color: "red"
+    },
+    discountBannerContainer: {
+      paddingVertical: 28,
+      zIndex: 1,
+      height: 180,
+      flex: 1,
+      width: "100%",
+      backgroundColor: "#ffd700",
+      justifyContent: "space-around",
+      marginTop: -70,
+      alignItems: "flex-end",
+      flexDirection: "row",
+    },
+    saleBannerTextContainer: {
+      paddingVertical: 8,
+      marginLeft: 15,
+      width: "48%",
+      borderBottomWidth: 1,
+    },
+    saleBannerText: {
+      fontFamily: "Roboto",
+      fontSize: 12,
+    },
+    rightSalesTextContainer: {},
+    categoryBannerContainer: {
+      marginVertical: 24,
+    },
+    backgroundContainer: {
+      height: 350,
+      justifyContent: "center",
+      alignItems: "center",
+      borderRadius: 10,
+    },
+    textInsideCategory: {
+      fontFamily: "Roboto",
+      fontSize: 36,
+      textAlign: "center",
+      color: "red"
+      //textTransform: "smallcase",
+    },
+    productsGridContainer: {
+      marginHorizontal: -8,
+      flexDirection: "column",
+    },
+    productGridItem: {
+      flex: 0.5,
+      marginHorizontal: 8,
+      marginBottom: 24,
+      borderRadius: 9,
+      marginBottom: -5,
+      marginRight: 10,
+    },
+    imageProductGridItem: {
+      width: "100%",
+      height: 150,
+      borderRadius: 9,
+    },
+    priceRowRelated: {
+      flexDirection: "row",
+      justifyContent: "center",
+      alignItems: "center",
+      marginTop: 8,
+    },
+    actualPriceRelated: {
+      fontFamily: "Roboto",
+      fontSize: 15,
+      color: "#000",
+      marginRight: 8,
+    },
+    oldPriceRelated: {
+      fontFamily: "Roboto",
+      fontSize: 9,
+      color: "#646464",
+      textDecorationLine: "line-through",
+    },
+    titleProductGridItemContainer: {
+      marginTop: 16,
+      alignItems: "center",
+      justifyContent: "center",
+      marginTop: 3,
+    },
+    titleProductGridItem: {
+      maxWidth: 130,
+      fontFamily: "Roboto",
+      fontSize: 15,
+      textAlign: "center",
+    },
+    titleButtonStyle: {
+      fontFamily: "Roboto",
+      fontSize: 9,
+      flex: 2,
+      paddingBottom: 0,
+      paddingTop: 0,
+    },
+    appleLogoButtonContainer: {
+      borderLeftWidth: 1,
+      borderLeftColor: "#fff",
+      textAlign: "center",
+      flexDirection: "row",
+      justifyContent: "center",
+      flex: 1,
+    },
+    priceInsideButtonText: {
+      fontFamily: "Roboto",
+      fontSize: 9,
+      color: "#fff",
+    },
+    categoryDiscountBanner: {
+      backgroundColor: "#F05829",
+      flexDirection: "row",
+      justifyContent: "space-between",
+      borderRadius: 0,
+      paddingHorizontal: 32,
+      paddingVertical: 40,
+    },
+    titleCategoryDiscountBanner: {
+      textAlign: "left",
+      fontFamily: "Roboto",
+      fontSize: 18,
+      color: "#000",
+    },
+    brandsContainer: {
+      backgroundColor: "#f8f8f8",
+      marginHorizontal: -24,
+      paddingHorizontal: 24,
+    },
+    brandsHeaderContainer: {
+      flexDirection: "row",
+      justifyContent: "space-between",
+      borderBottomWidth: 1,
+      alignItems: "center",
+      paddingVertical: 16,
+    },
+    brandsHeaderText: {
+      fontFamily: "Roboto",
+      fontSize: 14,
+      color: "#000",
+      paddingTop: 0,
+      paddingBottom: 0,
+      paddingRight: 16,
+    },
+    brandsHeaderButton: {
+      backgroundColor: "transparent",
+      padding: 0,
+    },
+    tagsContainer: {
+      paddingVertical: 26,
+    },
+    tagStyle: {
+      paddingVertical: 6,
+      paddingHorizontal: 12,
+      borderRadius: 13,
+      borderWidth: 1,
+      marginRight: 10,
+      marginBottom: 10,
+      fontFamily: "Roboto",
+      fontSize: 12,
+    },
+    newArrivalsContainer: {
+      marginTop: 32,
+    },
+    imageProductGridItemFirst: {
+      width: "100%",
+      height: 390,
+    },
+    actualPriceRelatedFirst: {
+      fontFamily: "Roboto",
+      fontSize: 21,
+      color: "#000",
+    },
+    titleProductGridItemFirst: {
+      maxWidth: 130,
+      fontFamily: "Roboto",
+      fontSize: 18,
+      textAlign: "center",
+    },
+    priceRow: {
+      flexDirection: "column",
+      justifyContent: "center",
+      alignItems: "center",
+      // marginTop: -,
+      marginBottom: 16,
+    },
+    actualPrice: {
+      fontFamily: "Roboto",
+      fontSize: 15,
+      color: "red",
+      marginRight: 8,
+    },
+    oldPrice: {
+      fontFamily: "Roboto",
+      fontSize: 12,
+      color: "#646464",
+      textDecorationLine: "line-through",
+    },
+    // SearchInput Style //
+    CariFilter: {
+      alignSelf: "center",
+      backgroundColor: "#ffd700",
+      borderBottomLeftRadius:20,
+      borderBottomRightRadius:20,
+      marginTop: 10,
+      marginBottom: 20,
+    },
+    Cari: {
+      backgroundColor: "#fff",
+      borderColor: "#fff",
+      borderWidth: 1,
+      borderStyle: "solid",
+      borderTopLeftRadius: 5,
+      borderTopRightRadius: 5,
+      borderBottomLeftRadius: 5,
+      borderBottomRightRadius: 5,
+      width: 200,
+      height: 60,
+      alignSelf: "center",
+    },
+    IsiCari: {
+      textAlign:"left",
+      color: "#646464",
+      fontFamily: "Roboto",
+      fontSize: 12,
+    },
+    ListEmpty: {
+      marginTop: 25,
+    },
+    TextEmpty: { 
+      textAlign: 'center',
+      color: '#F05829' 
+    },
+    // SearchInput Style //
+    productCountButtons: {
+      width: "99%",
+      padding: 3,
+      flexDirection: "column",
+      justifyContent: "space-between",
+      borderRadius: 0,
+      borderWidth: 1,
+      borderColor: "transparent",
+      flexDirection: "row",
+    },
+    plusButton: {
+      width:28,
+      height:30,
+      borderRadius: 0,
+      backgroundColor: "#fbc009",
+    },
+    minusButton: {
+      width:28,
+      height:30,
+      borderRadius: 0,
+      backgroundColor: "#fbc009",
+    },
+    titleButtonStyle: {
+      fontFamily: "Roboto",
+      fontSize: 9,
+      flex: 2,
+      paddingBottom: 0,
+      paddingTop: 0,
+      alignItems: 'center',
+    },
+    buttonBuy:{
+      backgroundColor: "#fbc009",
+      height:27,
+      width:"98%",
+      alignItems: 'center',
+    },
+    linkContainer: {
+      flexDirection: "row",
+      marginTop: -45,
+      marginBottom: 5,
+    },
+    linkText: {
+      fontFamily: "Roboto",
+      fontSize: 15,
+      color: 'red',
+      textAlign: "center",
+    },
+    icon: {
+      justifyContent: "center",
+    },
+    verticalLine: {
+      borderLeftWidth: 1,
+      borderRightColor: "#000",
+      marginHorizontal: 16,
+    },
+    blankSpace: {
+      borderLeftWidth: 0,
+      borderRightColor: "#fff",
+      marginHorizontal: 16,
+      alignItems: "center",
+      // position: center,
+      // left: 30,
+     },
+
+     searchBox: {
+      alignItems: 'center',
+      backgroundColor: '#E6E8E9',
+      borderRadius: 10,
+      color: '#8E8E93',
+      flexDirection: 'row',
+      fontSize: 17,
+      height: 43,
+      margin: 8,
+      marginVertical: 10,
+      paddingHorizontal: 10
+    },
+  });
+  

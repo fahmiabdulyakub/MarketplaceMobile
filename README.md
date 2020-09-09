@@ -1,6 +1,6 @@
-# maturanapp
+# MarketplaceApp
 How to run this app:
-open node.js cmd select folder maturanapp
+open node.js cmd select folder MarketplaceApp
 1. npm install
 
 2. react-native start
